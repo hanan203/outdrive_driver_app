@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442858677010",
+    "firebase_url": "https://outdrive-fa6f8-default-rtdb.firebaseio.com",
+    "project_id": "outdrive-fa6f8",
+    "storage_bucket": "outdrive-fa6f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442858677010:android:f930746fb7a682c6b4c9cb",
+        "android_client_info": {
+          "package_name": "com.hannan.outdrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442858677010-rd8cc9o3mplj9e3i6g34avc6pifq6rik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlcfikuQKrtnxVS0WWh-1k8AebGELhh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442858677010-rd8cc9o3mplj9e3i6g34avc6pifq6rik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
